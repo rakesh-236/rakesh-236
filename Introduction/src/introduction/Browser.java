@@ -39,3 +39,27 @@ public class Browser {
 	}
 
 }
+
+//charminar
+//four pillars
+//warangle
+//college
+//shadnagar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -44,19 +44,14 @@ public class AutoSuggest {
 		}
 
 		}
-//<<<<<<< HEAD
-//		
-////		numbers
-////		1 2 3 4 5 6 7 8 9 10
-//=======
-//		//Alphabets 
-//		//a b c d e f g h i k l m n o p 
-//		
-//>>>>>>> d4a67498db37dbd2ec3c01d4499322ac89ca0305
-
-//		I love india 
-//		My name is Rakesh 
-//		I  live in Hyderabad
+//1)Ramesh
+//2)manga
+//3)rakesh
+//4)ashwini
+//5)srikanth
+		
+		
+		
 		
 		
 		
