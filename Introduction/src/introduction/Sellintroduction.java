@@ -44,7 +44,10 @@ public class Sellintroduction {
 		driver.quit();
 //		Alphabets
 //		a b c d e f g h i 
-		
+//		Kako kaka	
+//		Tamato
+//		banana
+//		pineapple
 	
 
 }
