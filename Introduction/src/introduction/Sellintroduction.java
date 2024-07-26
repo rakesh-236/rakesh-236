@@ -42,8 +42,8 @@ public class Sellintroduction {
 		System.out.println(driver.getCurrentUrl());
 		driver.close();
 		driver.quit();
-		Alphabets
-		a b c d e f g h i 
+//		Alphabets
+//		a b c d e f g h i 
 		
 	
 
